@@ -21,7 +21,7 @@ export default class About extends Component {
                 learning. I am an inquisitive thinker, constantly looking for
                 solutions to daily problems. I was an Operations Manager for the
                 last 15 years, role that gave me the skills to lead teams and
-                also solidyfied my understanding of team cohesion.
+                also solidified my understanding of team cohesion.
               </p>
               <div className="row">
                 <div className="columns contact-details">
