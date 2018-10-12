@@ -7,14 +7,21 @@ export default class About extends Component {
         <section id="about">
           <div className="row">
             <div className="three columns">
-              <img className="profile-pic" src="images/profilepic.png" alt />
+              <img
+                className="profile-pic"
+                src="images/profilepic.png"
+                alt="my pic"
+              />
             </div>
             <div className="nine columns main-col">
               <h2>About Me</h2>
               <p>
                 {' '}
                 I am a resent graduate from{' '}
-                <a href="https://coderacademy.edu.au/" target="_blank">
+                <a
+                  href="https://coderacademy.edu.au/"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   Coder Academy fastrack bootcamp
                 </a>
                 . I am also a process engineer that loves challenges and
