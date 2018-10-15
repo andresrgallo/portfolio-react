@@ -17,7 +17,7 @@ export default class About extends Component {
               <h2>About Me</h2>
               <p>
                 {' '}
-                I am a resent graduate from{' '}
+                I am a recent graduate from{' '}
                 <a
                   href="https://coderacademy.edu.au/"
                   target="_blank"
