@@ -95,8 +95,8 @@ export default class Resume extends Component {
               </h1>
             </div>
             <div className="ten columns main-col">
-              <div class="main-skills">
-                <ul class="skills-ul">
+              <div className="main-skills">
+                <ul className="skills-ul">
                   <li className="js--wp-2">
                     <img src="icons/html1.png" alt="HTML Icon" />
                   </li>
