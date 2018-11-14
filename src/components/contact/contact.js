@@ -14,7 +14,7 @@ export default class Contact extends Component {
             <div className="ten columns">
               <p className="lead">
                 Please do not hesitate in sending me a message at{' '}
-                {resumeData.email}, I would like to here from you.
+                {resumeData.email}, I would like to hear from you.
               </p>
             </div>
           </div>

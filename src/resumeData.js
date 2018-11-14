@@ -3,7 +3,7 @@ let resumeData = {
   name: 'Andres Rodriguez Gallo',
   role: 'Junior Full Stack Web Developer',
   address: '68 Rathowen Pde',
-  suburbstate: 'Killarney Height NSW 2087',
+  suburbstate: 'Killarney Heights NSW 2087',
   mobile: '0434865906',
   email: 'andresgallo@hotmail.com',
 };
