@@ -72,10 +72,7 @@ export default class Portfolio extends Component {
 									</div>
 								</div>{' '}
 								{/* item end */}
-								<div
-									className="columns portfolio-item"
-									style={{ marginLeft: '30%' }}
-								>
+								<div className="columns portfolio-item" id="uniq">
 									<div className="item-wrap">
 										<a href="#modal-04" title>
 											<img
